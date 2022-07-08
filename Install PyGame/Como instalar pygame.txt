@@ -1,0 +1,7 @@
+Funciona para versão 3.8 do python, para outras versões baixar arquivos do site:
+https://www.lfd.uci.edu/~gohlke/pythonlibs/#pygame
+
+1) Após baixado alterar a extenção para rar ou zip
+2) Abrir o arquivo "rar" e copiar os arquivos da pasta pygame-1.9.6.data\headers para a pasta de instalação 
+do python no seguinte diretório "Python3.**\include\"pygame"\". (A pasta "pygame" precisa ser criada)
+3) Copiar as demais pastas do arquivo .rar para o seguinte diretório "Python38-32\Lib\site-packages\"
