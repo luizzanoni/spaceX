@@ -5,7 +5,6 @@ FILE PYTHON DOWNLOAD
 
 
 <details>
-<summary> INSTALLATION</summary>
 <div align="left">
 
 # Space-X-CC
