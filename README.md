@@ -1,3 +1,6 @@
+
+[![PYTHON](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]
+
 # Space-X-CC
 
 First game made at PYGAME and first work of the Computer Science Course 2019/2
@@ -16,7 +19,7 @@ Download the .ZIP folder or clone it to your computer.
 
 Install VSCODE.
 
-install python extensions in VSCODE.
+Install python extensions in VSCODE.
 
 After the initial adjustments, open the code with VSCODE, and change the path where you would find the game's images.
 Change the file with the copied link in the MAIN.PY file.
@@ -36,7 +39,7 @@ Download the .ZIP folder or clone it to your computer.
 
 Install VSCODE.
 
-install python extensions in VSCODE.
+Install python extensions in VSCODE.
 
 In the Install folder you will find the files to run the game on the OS.
 
