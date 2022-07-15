@@ -17,8 +17,11 @@ In the Install folder you will find the files to run the game on the Linux Opera
 After the initial adjustments, open the code with VSCODE, and change the path where you would find the game's images.
 Change the file with the copied link in the MAIN.PY file.
 
-After the changes made, run the following command in the VSCODE terminal: python3 main.py
+After the changes made, run the following command in the VSCODE terminal:
 
 ```
   python3 main.py
 ```
+Wait a few seconds and follow the instructions on the game screen.
+
+Great Gameplay!!!
