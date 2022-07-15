@@ -1,6 +1,11 @@
 <div align="center">
-FILE PYTHON DOWNLOAD <br>
+FILE PYTHON DOWNLOAD
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/downloads/)
+
+
+<details>
+<summary> INSTALLATION</summary>
+<div align="left">
 
 # Space-X-CC
 
