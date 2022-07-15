@@ -15,5 +15,10 @@ Download the .ZIP folder or clone it to your computer.
 In the Install folder you will find the files to run the game on the Linux Operating System.
 
 After the initial adjustments, open the code with VSCODE, and change the path where you would find the game's images.
-Change the file with the copied link in the MAIN.PY file
+Change the file with the copied link in the MAIN.PY file.
 
+After the changes made, run the following command in the VSCODE terminal: python3 main.py
+
+```
+  python3 main.py
+```
