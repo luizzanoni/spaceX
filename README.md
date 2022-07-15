@@ -10,7 +10,7 @@ Authors: Luiz Gustavo Zanoni and Lucas Bitello
 
 # Installation
 
-### To run on Linux:
+### Run on Linux:
 
 Download the .ZIP folder or clone it to your computer.
 
@@ -28,7 +28,7 @@ Wait a few seconds and follow the instructions on the game screen.
 
 Great Gameplay!!!
 
-### To run on Windows:
+### Run on Windows:
 
 Download the .ZIP folder or clone it to your computer.
 
