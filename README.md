@@ -14,6 +14,8 @@ Authors: Luiz Gustavo Zanoni and Lucas Bitello
 
 Download the .ZIP folder or clone it to your computer.
 
+Install VSCODE.
+
 install python extensions in VSCODE.
 
 After the initial adjustments, open the code with VSCODE, and change the path where you would find the game's images.
@@ -31,6 +33,10 @@ Great Gameplay!!!
 ### Run on Windows:
 
 Download the .ZIP folder or clone it to your computer.
+
+Install VSCODE.
+
+install python extensions in VSCODE.
 
 In the Install folder you will find the files to run the game on the OS.
 
