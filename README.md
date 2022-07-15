@@ -1,12 +1,12 @@
 # Space-X-CC
 
-Primeiro game feito na PYGAME e primeiro trabalho do Curso de Ciências da Computação 2019/2
+First game made at PYGAME and first work of the Computer Science Course 2019/2
 
-Matéria: Prog 1
+Subject: Prog 1
 
-Totalmente desenvolvido com Python na biblioteca Pygame, primeira linguagem de contato com o mundo da programação, jogo funciona nas verções três (3) do python, juntamente neste repositório contém arquivos .EXE para rodar o game no Windows, porém preferência que rode o mesmo em Linux, Ubuntu acima de 18.10.
+Fully developed with Python in the first programming wheel, I play in the functions in the three (3), developed with the world executed to run the first wheel of the library the game on Windows, preferably running the same in game. Linux, Ubuntu above 18.10.
 
-Autores: Luiz Gustavo Zanoni e Lucas Bitello
+Authors: Luiz Gustavo Zanoni and Lucas Bitello
 
-#Instalação
+# Instalação
 
