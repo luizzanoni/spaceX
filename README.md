@@ -16,9 +16,7 @@ Totally developed with Python in the first programming wheel, I play in the func
 
 Authors: Luiz Gustavo Zanoni and Lucas Bitello
 
-# Installation
-
-### Run on Linux:
+# Installation on Linux:
 
 Download the .ZIP folder or clone it to your computer.
 
@@ -38,7 +36,7 @@ Wait a few seconds and follow the instructions on the game screen.
 
 Great Gameplay!!!
 
-### Run on Windows:
+# Installation on Windows:
 
 Download the .ZIP folder or clone it to your computer.
 
