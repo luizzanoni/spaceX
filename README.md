@@ -34,7 +34,7 @@ After the changes made, run the following command in the VSCODE terminal:
 ```
 Wait a few seconds and follow the instructions on the game screen.
 
-Great Gameplay!!!
+Great Gameplay!!!	:rocket:
 
 # Installation on Windows:
 
@@ -56,4 +56,4 @@ After the changes made, run the following command in the VSCODE terminal:
 ```
 Wait a few seconds and follow the instructions on the game screen.
 
-Great Gameplay!!!
+Great Gameplay!!! :rocket:
