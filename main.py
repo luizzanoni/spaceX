@@ -55,5 +55,4 @@ def main(): # Inicia o Jogo
         backgroud.blit(player_front.spaceship, (player_front.pos_x, player_front.pos_y)) #Player
         FPS.tick(60) #Limite de FPS
         pygame.display.update() # Atualiza o cenário
-
 main()    
