@@ -8,7 +8,7 @@ PYTHON DOWNLOAD WINDOWS OR LINUX
 
 # Space-X-CC :rocket:
 
-First game made at PYGAME and first work of the Computer Science Course 2019/2
+First game made at PYGAME and first work of the Computer Science Course 2019/2 - Program 1
 
 Subject: Prog 1
 
