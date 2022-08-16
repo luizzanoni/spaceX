@@ -6,7 +6,7 @@ PYTHON DOWNLOAD WINDOWS OR LINUX
 
 <div align="left">
 
-# Space-X-CC :rocket:
+# SpaceX :rocket:
 
 First game made at PYGAME and first work of the Computer Science Course 2019/2 - Program 1
 
